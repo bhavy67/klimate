@@ -1,10 +1,25 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
-## https://youtu.be/BCp_5PoKrvI
+# 🌦️ Weather App
 
-![klimate](https://github.com/user-attachments/assets/03aed8a9-f2e1-4fcf-8628-5d1abd0c678c)
+A sleek and modern weather application built with **Next.js**, **React**, **TanStack Query**, **Shadcn UI**, **Recharts**, **Tailwind CSS**, and **TypeScript**.
 
-### Make sure to create a `.env` file with following variables -
+## 🚀 Features
 
-```
-VITE_OPENWEATHER_API_KEY=
-```
+- 🌍 Search and display weather for any location
+- 📊 Interactive charts with `Recharts`
+- ⚡ Lightning-fast data fetching with `TanStack Query`
+- 💅 Beautiful UI with `Shadcn` and `Tailwind CSS`
+- 🎨 Light & Dark theme support
+- ✅ Fully typed with `TypeScript`
+- 🔁 Seamless client-server rendering with `Next.js`
+
+## 🛠️ Tech Stack
+
+| Tech              | Usage                                   |
+|-------------------|------------------------------------------|
+| **Next.js**        | App framework for React with SSR/SSG    |
+| **React**          | Component-based frontend library         |
+| **TanStack Query** | Server state management and caching     |
+| **Tailwind CSS**   | Utility-first CSS for rapid styling     |
+| **Shadcn UI**      | Accessible and customizable UI library  |
+| **Recharts**       | Charts and data visualization           |
+| **TypeScript**     | Static type checking                    |
