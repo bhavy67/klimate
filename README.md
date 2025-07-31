@@ -2,6 +2,11 @@
 
 A sleek and modern weather application built with **Next.js**, **React**, **TanStack Query**, **Shadcn UI**, **Recharts**, **Tailwind CSS**, and **TypeScript**.
 
+
+## 🚀 Live Demo
+
+🔗 (https://klimate-bhavy.vercel.app/)
+
 ## 🚀 Features
 
 - 🌍 Search and display weather for any location
